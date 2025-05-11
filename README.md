@@ -37,3 +37,9 @@ Key contributions include:
 - six==1.17.0
 - tqdm==4.67.1
 - tzdata==2025.1
+
+## word embeddings download:
+- fasttext: https://fasttext.cc
+- Glove: https://nlp.stanford.edu/projects/glove/
+
+
